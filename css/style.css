@@ -9417,14 +9417,6 @@
     padding: 1em 0;
   }
 
-
-  #parallax-section {
-    background-image: url('images/personal/cover.png');
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-  }
-  
   
 
   .section-subscribe {
